@@ -1,6 +1,12 @@
 # ryzen-x570-hackintosh
 
 ## Specs
-|    CPU   |   GPU        |  RAM  | STORAGE |    DISPLAY    |
-|:--------:|:------------:|:-----:|:-------:|:-------------:|
-| R7-3700x | RX 5700      | 32 GB | NVME 1T |   3840×2160   |
+
+| 类别|详细信息|
+|-|-|
+|CPU|R7-3700x|
+|GPU|RX 5700|
+|MB|Gigabyte X570 I AORUS PRO WIFI|
+|RAM|32GB|
+|STORAGE|NVME 1T|
+|DISPLAY|3840×2160|
