@@ -1859,7 +1859,7 @@
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
-			<string>Builtin</string>
+			<string>External</string>
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
@@ -2227,6 +2227,7 @@
 			<string>AudioDxe.efi</string>
 			<string>ApfsDriverLoader.efi</string>
 			<string>VBoxHfs.efi</string>
+			<string>OpenCanopy.efi</string>
 		</array>
 		<key>Input</key>
 		<dict>
