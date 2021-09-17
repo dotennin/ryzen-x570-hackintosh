@@ -2,7 +2,7 @@
 
 ## Specs
 
-| 类别|详细信息|
+| -|Detail|
 |-|-|
 |CPU|R7-5800X|
 |GPU|RX 5500XT|
