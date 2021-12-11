@@ -24,7 +24,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string></string>
+				<string>Display internal drives (cosmetic)</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
