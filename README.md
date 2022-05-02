@@ -25,6 +25,9 @@
 |PRT9|	USB3|||		
 |PT10|	Typec|||		
 
+## config on PVE
+https://github.com/dotennin/ryzen-x570-hackintosh/tree/pve
+
 ## Credits
 
 - [保姆级黑苹果教程：让你的Ryzen+A卡用上最新版本的MacOS](https://zhuanlan.zhihu.com/p/135387622)
